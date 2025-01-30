@@ -1,7 +1,5 @@
 # SQL_Project_Pizza_DB
 
-This project uses MySQL to analyze and manage pizza sales data.
-
-It Contains 14 set of Questions that helps to solve business problems and helps in building a interactive dashboard for a management.
+• Developed a MySQL based analysis project for pizza sales data, addressing 14 key business questions. The project involved managing and analyzing sales data to solve business problems and which will help to create an interactive dashboard for management, facilitating data-driven decision-making.
 
 Thank You !
